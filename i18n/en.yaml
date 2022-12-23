@@ -1,0 +1,20 @@
+- id: latest_articles
+  translation: Latest Articles
+  
+- id: read_full_article
+  translation: read full article
+  
+- id: minutes_read
+  translation: minutes read
+  
+- id: categories
+  translation: Categories
+  
+- id: recommended
+  translation: Recommended
+  
+- id: know_more
+  translation: know more
+  
+- id: send_message
+  translation: Send message

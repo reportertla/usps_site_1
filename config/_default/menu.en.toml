@@ -1,0 +1,55 @@
+# main menu
+[[main]]
+name = "Postal Exam"
+url = "/articles/ace-your-postal-exam-find-out-what-score-you-need-to-pass/"
+weight = 1
+
+[[main]]
+name = "Benefits"
+url = "articles/discover-the-benefits-of-working-as-a-mailman-take-a-break/"
+weight = 2
+
+[[main]]
+name = "History of USPS"
+url = "articles/discover-the-answer-to-the-question-does-usps-require-a-medical-exam/"
+weight = 3
+
+[[main]]
+name = "USPS Pay"
+url = "articles/discover-how-often-usps-employees-get-paid-is-it-weekly-or-biweekly/"
+hasChildren = true
+weight = 8
+
+  # [[main]]
+  # parent = "Articles"
+  # name = "Beauty"
+  # url = "categories/beauty/"
+  # weight = 1
+  
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 9
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about"
+weight = 2
+
+[[footer]]
+name = "Sitemap"
+url = "sitemap.xml"
+weight = 3
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 7
+
+[[footer]]
+name = "Terms Conditions"
+url = "terms-conditions"
+weight = 8
